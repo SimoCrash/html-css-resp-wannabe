@@ -150,9 +150,26 @@ img {
         flex-wrap: wrap;
     }
 
-    .lessons .col {
+    .col {
         flex: 1 1 51%;
-        margin-bottom: 50px;
+        margin-bottom: 70px;
+    }
+
+    .card {
+        margin-bottom: 70px;
+    }
+
+    .steps {
+        margin: -3rem 0;
+    }
+
+    .why-us {
+        background-color: black;
+        margin: -3rem;
+    }
+
+    .why-us .container {
+        padding-top: 50px;
     }
 }
 
