@@ -160,7 +160,7 @@ img {
     }
 
     .steps {
-        margin: -3rem 0;
+        margin: -3rem;
     }
 
     .why-us {
@@ -169,6 +169,6 @@ img {
     }
 
     .why-us .container {
-        padding-top: 50px;
+        padding-top: 70px;
     }
 }
